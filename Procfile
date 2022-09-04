@@ -1,1 +1,1 @@
-web: gunicorn postmandeploy:app
+web: gunicorn postmandeploy:application
