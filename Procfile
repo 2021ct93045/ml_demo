@@ -1,1 +1,1 @@
-web: gunicorn app:group-nine
+web: gunicorn group-nine:application
